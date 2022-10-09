@@ -9,5 +9,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kachavi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+# Contributions
 ![snake svg](https://github.com/Kachavi/Kachavi/blob/output/github-contribution-grid-snake.svg)
