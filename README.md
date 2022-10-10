@@ -13,8 +13,8 @@
   
 
 ## Github Stats:
- <img align="right" width="400px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kachavi&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-<img width="400px"src="https://github-readme-stats.vercel.app/api?username=Kachavi&amp;show_icons=true" alt="GitHub Stats">
+ <img align="right" width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kachavi&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+<img width="500px"src="https://github-readme-stats.vercel.app/api?username=Kachavi&amp;show_icons=true" alt="GitHub Stats">
 
 ## Contributions
 ![snake svg](https://github.com/Kachavi/Kachavi/blob/output/github-contribution-grid-snake.svg)
