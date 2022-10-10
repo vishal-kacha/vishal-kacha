@@ -13,7 +13,7 @@
   
 
 ## Github Stats:
- <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kachavi&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+ <img align="right" width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kachavi&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 <img width="500px"src="https://github-readme-stats.vercel.app/api?username=Kachavi&amp;show_icons=true" alt="GitHub Stats">
 
 ## Contributions
