@@ -1,4 +1,4 @@
-# :v: Hi I'm Vishal
+<h1 align="center">:v: Hi I'm Vishal</h1>
 
 
 ## :mortar_board: :dart: Skills : 
