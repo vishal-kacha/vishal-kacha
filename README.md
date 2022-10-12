@@ -1,5 +1,5 @@
 <h1 align="center">:v: Hi I'm Vishal</h1>
-
+<h3>I like to learn and explore diffrent things. </h3>
 
 ## :mortar_board: :dart: Skills : 
 
