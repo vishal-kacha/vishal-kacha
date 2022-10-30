@@ -18,5 +18,3 @@
 ## :chart_with_upwards_trend: Github Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=Kachavi&amp;show_icons=true" alt="GitHub Stats">
 
-## :pushpin: Contributions :
-![snake svg](https://github.com/Kachavi/Kachavi/blob/output/github-contribution-grid-snake.svg)
