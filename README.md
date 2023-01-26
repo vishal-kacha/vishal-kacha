@@ -8,7 +8,6 @@
   <li>Html5</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>Python</li>
 </ul
 <br><br><br><br>
 
